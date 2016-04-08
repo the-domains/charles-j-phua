@@ -1,0 +1,28 @@
+name: Charles J Phua
+favicon: null
+layout_spectrum: 0.9583942035678774
+typography_spectrum: 0.9099525359924883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5292328842915595
+  lightness: 0.09742207848466933
+  saturation: 0.4859408198390156
+  rhythmicContrast: 0.3698772550560534
+purpose: []
